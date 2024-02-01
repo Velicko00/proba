@@ -1,3 +1,3 @@
 document.getElementById('helloButton').addEventListener('click', function() {
-    alert('Hello, World andjelaa stefann2!');
+    alert('Hello, World 6!');
 });
